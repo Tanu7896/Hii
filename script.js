@@ -169,7 +169,7 @@ function drawText() {
   if (frameNumber >= 1500 && frameNumber < 1800) {
     context.fillStyle = `rgba(255, 255, 255, ${opacity})`;
     context.fillText(
-      "to be alive, and to get to spend this life with you",
+      "to be alive, and to get to spend this life with you,Nandani",
       canvas.width / 2,
       canvas.height / 2
     );
